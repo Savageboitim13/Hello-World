@@ -14,7 +14,7 @@ Grade:          9th
 Age:            14
 Gender:         Male
 Country:        Germany
-Languages:      Russian, German,  English.
+Languages:      Russian, German, English.
 Code-Languages: Python, HTML.
 Hobbys:         Swimming, Volleyball, Soccer, Badmintion, Handball,
                 Piano, Codeing, Reading, Developeing.
