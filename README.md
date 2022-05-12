@@ -9,7 +9,7 @@ Nothing interesting to see here.
 
 <pre>
 Name:           Samuil Jasinov
-Birthday:       14th August 2007
+Birthday:       24th August 2007
 Grade:          9th
 Age:            14
 Gender:         Male
